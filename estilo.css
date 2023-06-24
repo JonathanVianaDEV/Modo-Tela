@@ -1,0 +1,49 @@
+div {
+    border-radius: 7px;
+    font-family: "Verdana", sans-serif;
+    margin-bottom: 5px;
+    text-align: center;   
+}
+
+.theme {
+    background-color: ghostWhite;
+    height: 300px;
+}
+
+.options {
+    height: 70px;
+    background-color: gainsboro;
+}
+
+button {
+    border: none;
+    border-radius: 5px;
+    font-size: 17px;
+    height: 40px;
+    width: 70px;
+    margin: 15px 5px 5px 0;
+    cursor: pointer;
+}
+
+img {
+    border-radius: 10px;
+    height: 150px;
+    width: 150px;
+}
+
+.label {
+    font-size: 30px;
+    margin-top: 3px;
+}
+
+.dark {
+    background-color: rgb(123, 32, 188);
+}
+
+.light {
+    background-color: ghostWhite;
+}
+
+.ninja {
+    background-color: rgb(182, 39, 39);
+}
